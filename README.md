@@ -12,6 +12,10 @@ This is a simple clone of the Netflix homepage built using HTML and CSS. It's a 
 - HTML5
 - CSS3
 
+## Live Demo
+
+Check out the live site here: [clonning-project.netlify.app](https://clonning-project.netlify.app)
+
 ## Getting Started
 
 To view the project locally:
